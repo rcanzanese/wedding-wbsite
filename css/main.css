@@ -296,6 +296,7 @@ body {
       color: #313f4c;
       background-color: #fcd0d7;
       border-color: #fcd0d7;
+      margin: 5px;
   }
   #events .events-text .btn-primary:hover {
       background-color: #f8adb9;
