@@ -124,10 +124,11 @@ body {
 
 /* RSVP Style */
 .ww-rsvp-detail {
-  background: url("../images/rsvp-img.jpg") no-repeat center center;
-  background-size: cover;
-  min-height: 500px;
-  position: relative; }
+  min-height: 800px;
+  /* background: url("../images/rsvp-img.jpg") no-repeat center center;
+  background-size: cover; */
+  min-height: 100px;
+  /* position: relative; */}
   .ww-rsvp-detail .ww-rsvp-form {
     padding-left: 20%; }
     @media (max-width: 768px) {
